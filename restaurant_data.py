@@ -76,4 +76,4 @@ def clean_print():
     # etc etc
     for keys,values in restaurant_1.items():
         print(f'{keys}: {values}')
-clean_print()
+# clean_print()
